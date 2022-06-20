@@ -1,0 +1,42 @@
+body {
+  text-align: center;
+  margin: 0 40px;
+}
+
+h1 {
+  font-size: 48px;
+}
+
+
+#taskfield {
+  margin: 60px auto 0 ;
+
+  border: 2px solid lightslategray ;
+  border-radius: 20px;
+  background-color: bisque;
+  width: 80%;
+}
+
+#taskfield p {
+  text-align: left;
+  padding-left: 20px;
+  font-size: 24px;
+}
+
+ul {
+  list-style-type: upper-alpha;
+  width: 400px;
+  display: flex;
+}
+
+
+
+li {
+  text-align: left;
+  margin-bottom: 8px;
+}
+
+.deletebtn {
+  margin-left: 50px;
+}
+
